@@ -15,8 +15,8 @@
         <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
     </a>
   </p>
-  
- An Esports commentator turned full-stack software engineer. Programming is the tool of an efficient lazy soul.
+ 
+  What's Up? I'm James Philiossaint, an Esports commentator turned full-stack software engineer. Programming is the tool of an efficient lazy soul.
   
   Visit [my website](https://jamesphiliossaint.netlify.app/) to get to know more about me and my projects!
   
