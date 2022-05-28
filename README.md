@@ -44,10 +44,10 @@
         <p><strong>Javascript, HTML5, CSS3</strong> - Enter your favorite anime and get back a quote! Made using two APIs.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">GamerTag Generator</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/gif2.gif" width="100%"  alt="GamerTag Generator"/>
         </a>
         <br />
         <p align="center">
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript,CSS, & HTML5</strong> - A GamerTag Generator that uses the users answers to randomly generate a GamerTag for them!.</p>
     </td>
   </tr>
   
