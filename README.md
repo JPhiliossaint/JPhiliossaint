@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
     </a>
   </p>
-  <img src="images/header.png" width="100%" alt="Travel App"/>
+  <img src="images/header.png" width="100%" height= "50%" alt="Travel App"/>
   What's Up? I'm James Philiossaint, an esports commentator turned full-stack software engineer. Programming is the tool of an efficient lazy soul.
   
   Visit [my website](https://jamesphiliossaint.netlify.app/) to get to know more about me and my projects!
