@@ -16,7 +16,7 @@
     </a>
   </p>
  
-  What's Up? I'm James Philiossaint, an Esports commentator turned full-stack software engineer. Programming is the tool of an efficient lazy soul.
+  What's Up? I'm James Philiossaint, an esports commentator turned full-stack software engineer. Programming is the tool of an efficient lazy soul.
   
   Visit [my website](https://jamesphiliossaint.netlify.app/) to get to know more about me and my projects!
   
