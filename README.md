@@ -65,7 +65,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">NASA API</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
@@ -79,10 +79,10 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Site that fetch's JSON from NASA's api to display either the video or picture of the day.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Portfolio Site</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
@@ -97,7 +97,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> -Portfolio Site including links to my projects and ways to get in contact with me.!</p>
     </td>
   </tr>
 </table>
