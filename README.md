@@ -46,7 +46,7 @@
     <td width="50%" valign="top">
       <h3 align="center">GamerTag Generator</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://gamertag-generator-jamesphi.netlify.app/">
             <img src="images/gif2.gif" width="100%"  alt="GamerTag Generator"/>
         </a>
         <br />
