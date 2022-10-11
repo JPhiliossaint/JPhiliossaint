@@ -29,7 +29,7 @@
       <h3 align="center">Anime Quote Generator</h3>
         <br />
         <a target="_blank" href="https://anime-complex-jamesphi.netlify.app/">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="images/gif1.gif" width="100%" alt="Anime Quote App"/>
         </a>
         <br />
         <p align="center">
@@ -37,7 +37,7 @@
   <a href="https://github.com/JPhiliossaint/complex-api2-bootcamp/tree/answer" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="" target="_blank">
+  <a href="https://anime-complex-jamesphi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
