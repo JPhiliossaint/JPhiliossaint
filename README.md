@@ -28,7 +28,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Anime Quote Generator</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="https://anime-complex-jamesphi.netlify.app/">
             <img src="images/gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
