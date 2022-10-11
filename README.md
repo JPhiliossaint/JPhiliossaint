@@ -67,7 +67,7 @@
     <td width="50%" valign="top">
       <h3 align="center">NASA API</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://nasa-api-jamesphi.netlify.app/">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
@@ -84,7 +84,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio Site</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a target="_blank" href="https://https://jamesphiliossaint.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
